@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;;
+   
+}
+h1{ font-size: 3rem;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+   
+    
+    
+    
+}
+h2{
+    font-weight: normal;
+}
+   
+
+.top-container{
+    background-color: #cbf1f5;
+    padding-top: 100px;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+
+}
+.bottam-cloud{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+}
+.pro{
+    width: 160px;
+}
+.code{
+    width: 300px;
+}
+.skill{
+     width: 150px;
+}
+.btn{
+    width: 40px;
+    height: 20px;
+   
+}
